@@ -25,6 +25,8 @@ This interactive dashboard explores key patterns in airline flight data, includi
 
 # Use the dashboard
 
+The dashboard is fully interactive, allowing users to filter data by origin city, destination city, and departure time to focus on specific routes or travel periods. It displays how many flights are direct or have one or more stops, shows which airlines operate the largest number of flights, and visualizes how ticket prices change depending on the number of days before departure
+
 <img src="images/use.gif" alt="Alt Text" width="750" height="600">
 
 
