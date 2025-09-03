@@ -19,6 +19,7 @@ The dataset used in this analysis is publicly available on Kaggle:
 
 ## 📊 Dashboard
 
+This interactive dashboard explores key patterns in airline flight data, including the most popular routes, frequency of direct vs. connecting flights, airline activity, and price trends based on days before departure. It provides a clear visual summary to help users understand flight dynamics and plan trips more effectively. You can see the finished dashboard [here](flights.pbix)
 
 ## 💡 Key Insights
 
